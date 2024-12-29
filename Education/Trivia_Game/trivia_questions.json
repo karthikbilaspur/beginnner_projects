@@ -1,0 +1,57 @@
+[
+    {
+      "category": "History",
+      "question": "Who painted the Mona Lisa?",
+      "options": [
+        "Leonardo da Vinci",
+        "Michelangelo",
+        "Raphael",
+        "Caravaggio"
+      ],
+      "answer": 0
+    },
+    {
+      "category": "Science",
+      "question": "Which planet is largest in our solar system?",
+      "options": [
+        "Earth",
+        "Saturn",
+        "Jupiter",
+        "Mars"
+      ],
+      "answer": 2
+    },
+    {
+      "category": "Literature",
+      "question": "Who wrote Romeo and Juliet?",
+      "options": [
+        "William Shakespeare",
+        "Jane Austen",
+        "Charles Dickens",
+        "J.K. Rowling"
+      ],
+      "answer": 0
+    },
+    {
+      "category": "Geography",
+      "question": "Which river is longest in the world?",
+      "options": [
+        "Nile",
+        "Amazon",
+        "Mississippi",
+        "Yangtze"
+      ],
+      "answer": 0
+    },
+    {
+      "category": "Technology",
+      "question": "What does CPU stand for?",
+      "options": [
+        "Central Processing Unit",
+        "Computer Processing Unit",
+        "Core Processing Unit",
+        "Central Processing Unite"
+      ],
+      "answer": 0
+    }
+  ]

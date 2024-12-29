@@ -1,0 +1,2 @@
+Python==3.10
+Note: Replace placeholders (your-username, your-email@example.com, your-acknowledgments, etc.) with actual values.

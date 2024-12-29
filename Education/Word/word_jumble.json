@@ -1,0 +1,44 @@
+{
+    "categories": [
+      {
+        "name": "Fruits",
+        "words": [
+          {
+            "word": "apple",
+            "definition": "A juicy red fruit",
+            "difficulty": "easy"
+          },
+          {
+            "word": "banana",
+            "definition": "A long yellow fruit",
+            "difficulty": "easy"
+          },
+          {
+            "word": "pomegranate",
+            "definition": "A fruit with edible seeds",
+            "difficulty": "hard"
+          }
+        ]
+      },
+      {
+        "name": "Animals",
+        "words": [
+          {
+            "word": "lion",
+            "definition": "The king of the jungle",
+            "difficulty": "easy"
+          },
+          {
+            "word": "giraffe",
+            "definition": "A tall mammal",
+            "difficulty": "medium"
+          },
+          {
+            "word": "quokka",
+            "definition": "A small wallaby",
+            "difficulty": "hard"
+          }
+        ]
+      }
+    ]
+  }

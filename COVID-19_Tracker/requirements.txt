@@ -1,0 +1,20 @@
+# Data analysis and manipulation
+pandas==1.5.2
+numpy==1.23.5
+
+# Data visualization
+matplotlib==3.6.2
+seaborn==0.12.1
+plotly==5.10.0
+
+# Additional libraries
+datetime==4.6
+scipy==1.9.3
+
+# Optional libraries (machine learning)
+scikit-learn==1.2.0
+tensorflow==2.11.0
+
+# Optional libraries (geographical analysis)
+geopandas==0.12.1
+folium==0.14.0

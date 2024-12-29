@@ -1,0 +1,27 @@
+# System and Utility Modules
+argparse==1.4.0
+logging==0.5.1.2
+
+
+# File System and OS Modules
+os==3.9.0
+shutil==3.9.0
+
+
+# Date and Time Modules
+datetime==4.3
+
+
+# No additional dependencies; using built-in Python modules
+To generate this file automatically:
+Install the required packages using pip.
+Run pip freeze > requirements.txt in your terminal/command prompt.
+Notes
+The versions listed are examples. Use the versions compatible with your Python environment.
+This project relies heavily on built-in Python modules, so external dependencies are minimal.
+Always verify compatibility before installing packages.
+To install dependencies from requirements.txt:
+Navigate to your project directory.
+Run pip install -r requirements.txt.
+This ensures your project's dependencies are installed and up-to-date.
+

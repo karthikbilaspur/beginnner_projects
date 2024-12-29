@@ -1,0 +1,15 @@
+# Required libraries
+tkinter
+numpy>=1.20.0
+tensorflow>=2.4.1
+keras>=2.4.3
+socket
+threading
+
+# Optional libraries (for development)
+pytest>=6.2.5
+flake8>=3.9.2
+pylint>=2.10.2
+
+# Specify Python version
+python>=3.8

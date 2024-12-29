@@ -1,0 +1,29 @@
+# Front-end dependencies
+
+*   html5
+*   css3
+*   javascript 
+
+# Back-end dependencies (if applicable)
+
+*   python3
+*   flask (optional)
+
+# Development tools
+
+*   git
+*   vscode (or preferred IDE)
+*   nodejs (for npm)
+
+# Libraries and frameworks
+
+*   None required
+
+# Testing tools
+
+*   None required
+
+# Notes
+
+*   Ensure latest browser versions for optimal performance.
+*   Compatible with desktop and mobile devices.

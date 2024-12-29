@@ -1,0 +1,56 @@
+requirements.txt
+Text
+# Core dependencies
+python==3.10.4
+json==2.0.9
+matplotlib==3.5.1
+numpy==1.22.3
+
+# Data storage and management
+pandas==1.4.2
+sqlite3==3.37.0
+
+# Security and authentication
+bcrypt==3.2.0
+flask-login==0.5.0
+
+# User interface and experience
+flask==2.0.2
+flask-wtf==1.0.0
+wtforms==3.0.0
+
+# API integrations (optional)
+requests==2.27.1
+yfinance==0.1.62
+
+# Testing frameworks
+pytest==7.0.1
+pytest-cov==2.10.1
+
+# Documentation tools
+sphinx==4.4.0
+sphinx-rtd-theme==1.0.0
+
+# Linting and formatting tools
+flake8==4.0.1
+black==22.3.0
+isort==5.10.1
+
+# Type checking tools
+mypy==0.942
+pytype==2022.3.17
+Explanation
+Core Dependencies: Essential libraries for the application.
+Data Storage and Management: Libraries for efficient data handling.
+Security and Authentication: Libraries for secure authentication.
+User Interface and Experience: Libraries for intuitive interface design.
+API Integrations: Optional libraries for integrating external APIs.
+Testing Frameworks: Libraries for thorough application testing.
+Documentation Tools: Libraries for generating documentation.
+Linting and Formatting Tools: Libraries for code quality maintenance.
+Type Checking Tools: Libraries for ensuring type safety.
+Installation
+To install the required packages, run:
+Bash
+pip install -r requirements.txt
+

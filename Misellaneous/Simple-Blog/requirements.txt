@@ -1,0 +1,6 @@
+Flask==2.2.2
+Flask-SQLAlchemy==2.5.1
+Flask-Login==0.6.0
+Flask-WTF==1.0.1
+WTForms==3.0.1
+Flask-WhooshAlchemy==0.7.2

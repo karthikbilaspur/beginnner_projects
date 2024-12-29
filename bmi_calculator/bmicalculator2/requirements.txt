@@ -1,0 +1,17 @@
+Requirements
+
+matplotlib==3.7.1
+json==2.0.9
+To generate this file automatically:
+Install required packages using pip.
+Run pip freeze > requirements.txt in your terminal/command prompt.
+Explanation
+matplotlib==3.7.1: Specifies Matplotlib version 3.7.1 for data visualization.
+json==2.0.9: Specifies JSON version 2.0.9 for data storage and retrieval.
+Additional Dependencies
+Python 3.8+
+pip 22.0+
+Installation
+Clone the repository.
+Navigate to the project directory.
+Run pip install -r requirements.txt to install dependencies.

@@ -1,0 +1,122 @@
+{
+    "2022-01-01": [
+      {"type": "Stocks", "amount": 1000.00},
+      {"type": "Bonds", "amount": 500.00}
+    ],
+    "2022-01-02": [
+      {"type": "Real Estate", "amount": 2000.00},
+      {"type": "Mutual Funds", "amount": 1000.00}
+    ],
+    "2022-01-03": [
+      {"type": "ETFs", "amount": 1500.00},
+      {"type": "Index Funds", "amount": 1200.00}
+    ],
+    "2022-01-04": [
+      {"type": "Commodities", "amount": 1000.00},
+      {"type": "Currencies", "amount": 500.00}
+    ],
+    "2022-01-05": [
+      {"type": "Cryptocurrencies", "amount": 2000.00},
+      {"type": "Gold", "amount": 1000.00}
+    ],
+    "2022-01-06": [
+      {"type": "Silver", "amount": 500.00},
+      {"type": "Oil", "amount": 1000.00}
+    ],
+    "2022-01-07": [
+      {"type": "Gas", "amount": 500.00},
+      {"type": "Agricultural Commodities", "amount": 1000.00}
+    ],
+    "2022-01-08": [
+      {"type": "Metals", "amount": 1500.00},
+      {"type": "Energy", "amount": 2000.00}
+    ],
+    "2022-01-09": [
+      {"type": "Renewable Energy", "amount": 1000.00},
+      {"type": "Water", "amount": 500.00}
+    ],
+    "2022-01-10": [
+      {"type": "Waste Management", "amount": 1000.00},
+      {"type": "Infrastructure", "amount": 2000.00}
+    ],
+    "2022-01-11": [
+      {"type": "Transportation", "amount": 1500.00},
+      {"type": "Real Estate Investment Trusts (REITs)", "amount": 1000.00}
+    ],
+    "2022-01-12": [
+      {"type": "Master Limited Partnerships (MLPs)", "amount": 500.00},
+      {"type": "Business Development Companies (BDCs)", "amount": 1000.00}
+    ],
+    "2022-01-13": [
+      {"type": "Closed-End Funds", "amount": 1500.00},
+      {"type": "Unit Investment Trusts (UITs)", "amount": 1000.00}
+    ],
+    "2022-01-14": [
+      {"type": "Exchange-Traded Notes (ETNs)", "amount": 500.00},
+      {"type": "Exchange-Traded Commodities (ETCs)", "amount": 1000.00}
+    ],
+    "2022-01-15": [
+      {"type": "Forex", "amount": 2000.00},
+      {"type": "Futures", "amount": 1500.00}
+    ],
+    "2022-01-16": [
+      {"type": "Options", "amount": 1000.00},
+      {"type": "Swaps", "amount": 500.00}
+    ],
+    "2022-01-17": [
+      {"type": "Forward Contracts", "amount": 1500.00},
+      {"type": "Futures Contracts", "amount": 1000.00}
+    ],
+    "2022-01-18": [
+      {"type": "Stock Options", "amount": 500.00},
+      {"type": "Index Options", "amount": 1000.00}
+    ],
+    "2022-01-19": [
+      {"type": "Commodity Options", "amount": 1500.00},
+      {"type": "Currency Options", "amount": 1000.00}
+    ],
+    "2022-01-20": [
+      {"type": "Interest Rate Options", "amount": 500.00},
+      {"type": "Credit Options", "amount": 1000.00}
+    ],
+    "2022-01-21": [
+      {"type": "Weather Derivatives", "amount": 1500.00},
+      {"type": "Insurance Derivatives", "amount": 1000.00}
+    ],
+    "2022-01-22": [
+      {"type": "Carbon Credits", "amount": 500.00},
+      {"type": "Renewable Energy Certificates (RECs)", "amount": 1000.00}
+    ],
+    "2022-01-23": [
+      {"type": "Emissions Reduction Units (ERUs)", "amount": 1500.00},
+      {"type": "Verified Emissions Reductions (VERs)", "amount": 1000.00}
+    ],
+    "2022-01-24": [
+      {"type": "Certified Emissions Reductions (CERs)", "amount": 500.00},
+      {"type": "European Union Allowances (EUAs)", "amount": 1000.00}
+    ],
+    "2022-01-25": [
+      {"type": "Sulfur Dioxide Allowances", "amount": 1500.00},
+      {"type": "Nitrogen Oxide Allowances", "amount": 1000.00}
+    ],
+    "2022-01-26": [
+      {"type": "Regional Greenhouse Gas Initiative (RGGI) Allowances", "amount": 500.00},
+      {"type": "California Carbon Allowances", "amount": 1000.00}
+    ],
+    "2022-01-27": [
+      {"type": "European Union Aviation Allowances (EUAA)", "amount": 1500.00},
+      {"type": "International Civil Aviation Organization (ICAO) Carbon Offset Units", "amount": 1000.00}
+    ],
+    "2022-01-28": [
+      {"type": "Gold Mining Stocks", "amount": 500.00},
+      {"type": "Silver Mining Stocks", "amount": 1000.00}
+    ],
+    "2022-01-29": [
+      {"type": "Copper Mining Stocks", "amount": 1500.00},
+      {"type": "Agricultural Stocks", "amount": 1000.00}
+    ],
+    "2022-01-30": [
+      {"type": "Energy Stocks", "amount": 2000.00},
+      {"type": "Financial Stocks", "amount": 1500.00}
+    ]
+  }

@@ -1,0 +1,6 @@
+{
+    "condition": true,
+    "loop": 3,
+    "message": "Hello, world!",
+    "interval": 1
+}

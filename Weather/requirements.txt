@@ -1,0 +1,28 @@
+Here's the requirements.txt file for the weather program:
+# Requirements for Weather Program
+
+# Data Fetching and API Requests
+requests==2.28.2
+
+# Data Parsing and Manipulation
+json==2.0.9
+
+# Graphical Visualizations
+matplotlib==3.6.2
+
+# Optional Dependencies
+python-dateutil==2.8.2
+pytz==2022.6
+
+# Specify Python Version
+python>=3.8
+To generate this file automatically:
+Install all required libraries using pip.
+Run the following command in your terminal:
+Bash
+pip freeze > requirements.txt
+This command generates a requirements.txt file containing all installed libraries and their versions.
+To install libraries from requirements.txt:
+Bash
+pip install -r requirements.txt
+

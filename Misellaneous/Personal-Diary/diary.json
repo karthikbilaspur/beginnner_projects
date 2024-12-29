@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "date": "2024-11-12",
+      "title": "First Day of School",
+      "entry": "Met new friends and teachers.",
+      "tags": ["school", "friends"],
+      "mood": "happy"
+    },
+    {
+      "id": 2,
+      "date": "2024-11-13",
+      "title": "Family Vacation",
+      "entry": "Beach trip with family.",
+      "tags": ["vacation", "family"],
+      "mood": "excited"
+    },
+    {
+      "id": 3,
+      "date": "2024-11-14",
+      "title": "Personal Growth",
+      "entry": "Started learning guitar.",
+      "tags": ["guitar", "hobby"],
+      "mood": "motivated"
+    },
+    {
+      "id": 4,
+      "date": "2024-11-15",
+      "title": "Daily Gratitude",
+      "entry": "Grateful for supportive friends.",
+      "tags": ["gratitude", "friends"],
+      "mood": "thankful"
+    },
+    {
+      "id": 5,
+      "date": "2024-11-16",
+      "title": "Overcoming Challenges",
+      "entry": "Handled difficult situation.",
+      "tags": ["resilience", "growth"],
+      "mood": "proud"
+    }
+  ]

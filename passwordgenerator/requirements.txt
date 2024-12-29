@@ -1,0 +1,28 @@
+# Password Generator Requirements
+
+# Core Dependencies
+python==3.9.7
+tkinter==8.6.10
+
+# Password Generation and Security
+secrets==4.0.0
+string==3.10.0
+hashlib==3.10.0
+cryptography==37.0.4
+
+# Google Drive Integration
+google-api-python-client==2.34.0
+google-auth-httplib2==0.1.0
+google-auth-oauthlib==0.4.6
+
+# Dropbox Integration
+dropbox==11.34.0
+
+# Password Strength Estimation
+zxcvbn==4.4.1
+
+# GUI Dependencies
+Pillow==9.0.1
+
+# Utilities
+numpy==1.22.4

@@ -1,0 +1,21 @@
+schedule
+pyautogui
+keyboard
+logging
+json
+Installation Command
+Bash
+pip install -r requirements.txt
+Explanation
+Lists required libraries.
+Specifies library versions.
+Utilize pip install command.
+Advice
+Update requirements.txt after library modifications.
+Use pip freeze to generate requirements.txt.
+Specify library versions for consistency.
+Best Practices
+Maintain up-to-date requirements.txt.
+Test library compatibility.
+Document library usage.
+

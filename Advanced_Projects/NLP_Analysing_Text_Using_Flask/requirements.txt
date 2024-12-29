@@ -1,0 +1,6 @@
+Flask==2.2.2
+nltk==3.7
+spacy==3.4.1
+en_core_web_sm==3.4.1
+vaderSentiment==3.3.2
+matplotlib==3.5.1

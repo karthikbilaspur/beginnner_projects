@@ -1,0 +1,3 @@
+
+Install NLTK library: pip install nltk
+Download NLTK data: python -m nltk.downloader vader_lexicon wordnet

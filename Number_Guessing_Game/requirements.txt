@@ -1,0 +1,19 @@
+requirements.txt file for the Enhanced Number Guessing Game project:
+# No external dependencies required
+# Python 3.x standard library used
+
+# Optional: For future development or enhancements
+# random==3.9.7
+The project utilizes Python's built-in modules, eliminating the need for external dependencies.
+Why No External Dependencies?
+Random Number Generation: Utilizes random module from Python's standard library.
+Input/Output Operations: Leverages built-in input, print functions.
+Type Checking: Employs built-in isinstance, type functions.
+Potential Future Dependencies
+Colorama: For colorful terminal output.
+Rich: For enhanced terminal formatting.
+PyFiglet: For ASCII art titles.
+To install dependencies (if any), run:
+Bash
+pip install -r requirements.txt
+

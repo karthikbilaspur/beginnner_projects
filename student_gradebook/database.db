@@ -1,0 +1,31 @@
+-- Create students table
+CREATE TABLE students (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT NOT NULL
+);
+
+-- Create assignments table
+CREATE TABLE assignments (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT NOT NULL,
+    due_date DATE
+);
+
+-- Create grades table
+CREATE TABLE grades (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    student_id INTEGER,
+    assignment_id INTEGER,
+    grade REAL,
+    FOREIGN KEY (student_id) REFERENCES students (id),
+    FOREIGN KEY (assignment_id) REFERENCES assignments (id)
+);
+
+-- Insert sample students
+INSERT INTO students (name) VALUES ('John Doe'), ('Jane Doe');
+
+-- Insert sample assignments
+INSERT INTO assignments (name, due_date) VALUES ('Assignment 1', '2024-03-20'), ('Assignment 2', '2024-04-10');
+
+-- Insert sample grades
+INSERT INTO grades (student_id, assignment_id, grade) VALUES (1, 1, 90.0), (1, 2, 85.0), (2, 1, 95.0);

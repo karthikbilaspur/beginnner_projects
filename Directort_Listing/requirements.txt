@@ -1,0 +1,31 @@
+# System and File Interactions
+os==3.8.0
+datetime==4.0.0
+
+# Graphical User Interface (GUI)
+tkinter==8.6.10
+
+# Clipboard Integration
+pyperclip==1.8.2
+
+# File Dialogs and GUI Utilities
+filedialog==1.5.5
+
+# Message Boxes and GUI Notifications
+messagebox==1.0.0
+
+# Subprocess and System Command Execution
+subprocess==3.8.0
+
+# Python Version Specification
+python>=3.8
+
+Generating requirements.txt
+To automatically generate requirements.txt, run:
+Bash
+pip freeze > requirements.txt
+Installing Dependencies
+To install dependencies from requirements.txt, run:
+Bash
+pip install -r requirements.txt
+

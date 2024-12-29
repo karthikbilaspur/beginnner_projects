@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>Results</h1>
+    <h2>Sentiment Analysis:</h2>
+    <p>Positive: {{ results['sentiment']['pos'] }}</p>
+    <p>Negative: {{ results['sentiment']['neg'] }}</p>
+    <h2>Entity Recognition:</h2>
+    <ul>
+      {% for entity in results['entities'] %}
+        <li>{{ entity[0] }}: {{ entity[1] }}</li>
+      {% endfor %}
+    </ul>
+  </body>
+</html>

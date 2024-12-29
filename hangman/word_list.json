@@ -1,0 +1,24 @@
+{
+    "categories": [
+      {
+        "name": "Animals",
+        "words": ["lion", "elephant", "giraffe", "zebra", "kangaroo"]
+      },
+      {
+        "name": "Countries",
+        "words": ["USA", "Canada", "Mexico", "Brazil", "Argentina"]
+      },
+      {
+        "name": "Programming",
+        "words": ["python", "java", "javascript", "c++", "ruby"]
+      },
+      {
+        "name": "History",
+        "words": ["Egypt", "Rome", "Greece", "China", "India"]
+      },
+      {
+        "name": "Science",
+        "words": ["physics", "chemistry", "biology", "mathematics", "astronomy"]
+      }
+    ]
+  }

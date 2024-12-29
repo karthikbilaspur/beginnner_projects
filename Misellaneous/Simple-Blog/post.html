@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+
+{% block content %}
+    <h1>{{ post.title }}</h1>
+    <p>{{ post.content }}</p>
+    <h2>Comments</h2>
+    <ul>
+    {% for comment in comments %}
+        <li>{{ comment.content }}</li>
+    {% endfor %}
+    </ul>
+    <form method="POST" action="{{ url_for('comment', post_id=post.id) }}">
+        <input type="text" name="content">
+        <input type="submit" value="Comment">
+    </form>
+{% endblock %}

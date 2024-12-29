@@ -1,0 +1,30 @@
+# Text Editor Requirements
+
+# Core Dependencies
+python>=3.8
+tk>=8.6
+
+# Additional Dependencies
+tkinter-colorchooser>=0.1.2
+
+# Optional Dependencies
+pywin32>=304  # For Windows-specific functionality
+To generate the requirements.txt automatically:
+Install the required packages using pip.
+Run pip freeze > requirements.txt in your terminal/command prompt.
+Note: pip freeze lists all installed packages and their versions.
+To install dependencies from requirements.txt:
+Ensure you have Python and pip installed.
+Navigate to the project directory.
+Run pip install -r requirements.txt.
+Explanation
+python>=3.8: Requires Python 3.8 or higher.
+tk>=8.6: Requires Tk version 8.6 or higher.
+tkinter-colorchooser>=0.1.2: Requires the tkinter-colorchooser package.
+pywin32>=304: Optional, for Windows-specific functionality.
+Best Practices
+Pin package versions for consistency.
+Specify package sources (e.g., PyPI) if necessary.
+Keep requirements.txt up-to-date with project changes.
+Consider using virtual environments for isolation.
+

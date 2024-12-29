@@ -1,0 +1,36 @@
+{
+    "tasks": [
+      {
+        "id": 1,
+        "name": "Buy groceries",
+        "due_date": "2024-11-15",
+        "done": false,
+        "priority": "High",
+        "category": "Personal"
+      },
+      {
+        "id": 2,
+        "name": "Complete project report",
+        "due_date": "2024-11-20",
+        "done": false,
+        "priority": "Medium",
+        "category": "Work"
+      },
+      {
+        "id": 3,
+        "name": "Attend team meeting",
+        "due_date": "2024-11-12",
+        "done": false,
+        "priority": "Low",
+        "category": "Work"
+      },
+      {
+        "id": 4,
+        "name": "Pay bills",
+        "due_date": "2024-11-25",
+        "done": false,
+        "priority": "High",
+        "category": "Personal"
+      }
+    ]
+  }

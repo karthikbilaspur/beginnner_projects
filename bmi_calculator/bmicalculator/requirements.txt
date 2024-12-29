@@ -1,0 +1,5 @@
+tkinter: GUI library.
+sqlite3: Database library
+matplotlib: Plotting library 
+hashlib: Encryption library .
+base64: Encoding library.

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grades</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">Student Gradebook</a>
+    </nav>
+    <div class="container">
+        <h1>Grades</h1>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Student Name</th>
+                    <th>Assignment Name</th>
+                    <th>Grade</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for grade in grades %}
+                <tr>
+                    <td>{{ grade.id }}</td>
+                    <td>{{ grade.student.name }}</td>
+                    <td>{{ grade.assignment.name }}</td>
+                    <td>{{ grade.grade }}</td>
+                    <td>
+                        <a href="{{ url_for('edit_grade', grade_id=grade.id) }}">Edit</a>
+                        <a href="{{ url_for('delete_grade', grade_id=grade.id) }}">Delete</a>
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <a href="{{ url_for('create_grade') }}" class="btn btn-primary">Create Grade</a>
+    </div>
+</body>
+</html>

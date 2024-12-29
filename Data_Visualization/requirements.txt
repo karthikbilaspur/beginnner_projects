@@ -1,0 +1,27 @@
+Here's the requirements.txt file for the data visualization project:
+# Data manipulation and visualization libraries
+pandas==1.5.2
+matplotlib==3.7.1
+seaborn==0.12.2
+plotly==5.11.0
+
+# Scientific computing library
+scipy==1.10.0
+
+
+## Installation Command
+
+To install the required libraries, run:
+
+
+```bash
+pip install -r requirements.txt
+Explanation
+This requirements.txt includes essential libraries for data manipulation, visualization and scientific computing:
+pandas: Data manipulation and analysis.
+matplotlib, seaborn: Data visualization.
+plotly: Interactive visualization.
+scipy: Scientific computing for regression analysis.
+numpy: Optional dependency for numerical computations.
+Specify library versions to ensure compatibility and reproducibility.
+

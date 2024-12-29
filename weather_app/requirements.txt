@@ -1,0 +1,58 @@
+requirements.txt
+# Core Dependencies
+tkinter
+requests
+json
+pandas
+numpy
+
+# Machine Learning Dependencies
+tensorflow
+scikit-learn
+
+# Voice Assistant Dependencies
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+pyttsx3
+
+# Additional Dependencies
+openweathermap
+pytz
+Installation Command
+To install these dependencies, execute:
+Bash
+pip install -r requirements.txt
+Dependency Details
+tkinter: Python's de-facto standard GUI (Graphical User Interface) package.
+requests: HTTP library for Python.
+json: JSON encoding and decoding support.
+pandas: Data structures and data analysis tools.
+numpy: Library for efficient numerical computation.
+tensorflow: Machine learning library.
+scikit-learn: Machine learning library for Python.
+google-api-python-client: Google API client library for Python.
+google-auth: Google authentication library for Python.
+google-auth-oauthlib: OAuth 2.0 authentication library.
+google-auth-httplib2: HTTP client library.
+pyttsx3: Text-to-speech conversion library.
+openweathermap: OpenWeatherMap API wrapper.
+pytz: Time zone calculations.
+Version Specifications
+Python 3.8+
+tkinter 8.6+
+requests 2.28+
+json 2.0+
+pandas 1.4+
+numpy 1.22+
+tensorflow 2.9+
+scikit-learn 1.1+
+google-api-python-client 2.52+
+google-auth 2.10+
+google-auth-oauthlib 0.4+
+google-auth-httplib2 0.1+
+pyttsx3 2.90+
+openweathermap 0.2+
+pytz 2022.6+
+

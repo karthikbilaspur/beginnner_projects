@@ -1,0 +1,122 @@
+{
+    "2022-01-01": [
+      {"category": "Food", "amount": 10.99, "description": "Lunch"},
+      {"category": "Transportation", "amount": 2.50, "description": "Bus fare"}
+    ],
+    "2022-01-02": [
+      {"category": "Entertainment", "amount": 20.00, "description": "Movie ticket"},
+      {"category": "Food", "amount": 15.99, "description": "Dinner"}
+    ],
+    "2022-01-03": [
+      {"category": "Shopping", "amount": 50.00, "description": "Clothing"},
+      {"category": "Transportation", "amount": 2.50, "description": "Bus fare"}
+    ],
+    "2022-01-04": [
+      {"category": "Food", "amount": 12.99, "description": "Breakfast"},
+      {"category": "Entertainment", "amount": 30.00, "description": "Concert ticket"}
+    ],
+    "2022-01-05": [
+      {"category": "Shopping", "amount": 20.00, "description": "Electronics"},
+      {"category": "Transportation", "amount": 2.50, "description": "Bus fare"}
+    ],
+    "2022-01-06": [
+      {"category": "Food", "amount": 18.99, "description": "Lunch"},
+      {"category": "Entertainment", "amount": 25.00, "description": "Museum visit"}
+    ],
+    "2022-01-07": [
+      {"category": "Shopping", "amount": 40.00, "description": "Home decor"},
+      {"category": "Transportation", "amount": 2.50, "description": "Bus fare"}
+    ],
+    "2022-01-08": [
+      {"category": "Food", "amount": 11.99, "description": "Dinner"},
+      {"category": "Entertainment", "amount": 35.00, "description": "Sporting event"}
+    ],
+    "2022-01-09": [
+      {"category": "Shopping", "amount": 30.00, "description": "Books"},
+      {"category": "Transportation", "amount": 2.50, "description": "Bus fare"}
+    ],
+    "2022-01-10": [
+      {"category": "Food", "amount": 14.99, "description": "Breakfast"},
+      {"category": "Entertainment", "amount": 20.00, "description": "Game"}
+    ],
+    "2022-01-11": [
+      {"category": "Shopping", "amount": 25.00, "description": "Toys"},
+      {"category": "Transportation", "amount": 2.50, "description": "Bus fare"}
+    ],
+    "2022-01-12": [
+      {"category": "Food", "amount": 16.99, "description": "Lunch"},
+      {"category": "Entertainment", "amount": 28.00, "description": "Theater performance"}
+    ],
+    "2022-01-13": [
+      {"category": "Shopping", "amount": 45.00, "description": "Furniture"},
+      {"category": "Transportation", "amount": 2.50, "description": "Bus fare"}
+    ],
+    "2022-01-14": [
+      {"category": "Food", "amount": 13.99, "description": "Dinner"},
+      {"category": "Entertainment", "amount": 32.00, "description": "Comedy show"}
+    ],
+    "2022-01-15": [
+      {"category": "Shopping", "amount": 35.00, "description": "Sports equipment"},
+      {"category": "Transportation", "amount": 2.50, "description": "Bus fare"}
+    ],
+    "2022-01-16": [
+      {"category": "Food", "amount": 17.99, "description": "Breakfast"},
+      {"category": "Entertainment", "amount": 22.00, "description": "Music lesson"}
+    ],
+    "2022-01-17": [
+      {"category": "Shopping", "amount": 20.00, "description": "Art supplies"},
+      {"category": "Transportation", "amount": 2.50, "description": "Bus fare"}
+    ],
+    "2022-01-18": [
+      {"category": "Food", "amount": 19.99, "description": "Lunch"},
+      {"category": "Entertainment", "amount": 26.00, "description": "Amusement park visit"}
+    ],
+    "2022-01-19": [
+      {"category": "Shopping", "amount": 50.00, "description": "Jewelry"},
+      {"category": "Transportation", "amount": 2.50, "description": "Bus fare"}
+    ],
+    "2022-01-20": [
+      {"category": "Food", "amount": 12.99, "description": "Dinner"},
+      {"category": "Entertainment", "amount": 38.00, "description": "Concert"}
+    ],
+    "2022-01-21": [
+      {"category": "Shopping", "amount": 40.00, "description": "Home appliances"},
+      {"category": "Transportation", "amount": 2.50, "description": "Bus fare"}
+    ],
+    "2022-01-22": [
+      {"category": "Food", "amount": 15.99, "description": "Breakfast"},
+      {"category": "Entertainment", "amount": 24.00, "description": "Yoga class"}
+    ],
+    "2022-01-23": [
+      {"category": "Shopping", "amount": 30.00, "description": "Baby products"},
+      {"category": "Transportation", "amount": 2.50, "description": "Bus fare"}
+    ],
+    "2022-01-24": [
+      {"category": "Food", "amount": 14.99, "description": "Lunch"},
+      {"category": "Entertainment", "amount": 29.00, "description": "Museum membership"}
+    ],
+    "2022-01-25": [
+      {"category": "Shopping", "amount": 25.00, "description": "Pet supplies"},
+      {"category": "Transportation", "amount": 2.50, "description": "Bus fare"}
+    ],
+    "2022-01-26": [
+      {"category": "Food", "amount": 16.99, "description": "Dinner"},
+      {"category": "Entertainment", "amount": 31.00, "description": "Sporting goods"}
+    ],
+    "2022-01-27": [
+      {"category": "Shopping", "amount": 45.00, "description": "Electronics"},
+      {"category": "Transportation", "amount": 2.50, "description": "Bus fare"}
+    ],
+    "2022-01-28": [
+      {"category": "Food", "amount": 11.99, "description": "Breakfast"},
+      {"category": "Entertainment", "amount": 23.00, "description": "Game console"}
+    ],
+    "2022-01-29": [
+      {"category": "Shopping", "amount": 20.00, "description": "Toys"},
+      {"category": "Transportation", "amount": 2.50, "description": "Bus fare"}
+    ],
+    "2022-01-30": [
+      {"category": "Food", "amount": 13.99, "description": "Lunch"},
+      {"category": "Entertainment", "amount": 27.00, "description": "Theater ticket"}
+    ]
+  }
